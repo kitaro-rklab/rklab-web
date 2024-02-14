@@ -23,6 +23,10 @@ nav ul li {
 	width: 170px;
 }
 
+nav ul li:hover {
+	background-color: #24508E;
+}
+
 nav ul li a {
 	text-decoration: none;
 	color: white;
