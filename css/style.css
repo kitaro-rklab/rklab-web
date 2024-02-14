@@ -1,17 +1,31 @@
+body {
+	margin: 0;
+	background-color: #EFF5F8;
+	height: 100%;
+}
+
 h1, h3 {
+	color: #24508E;
+	padding-left: 30px;
+}
+
+h2 {
+	margin: 0;
 	color: #24508E;
 }
 
-h3 {
-	margin: 20px 0 0 20px;
+h3	{
+	margin: 0;
 }
 
+
 h1 {
-	margin: 10px 20px;
+	margin: 10px 0 20px 0;
 }
 
 nav ul {
-	padding-left: 20px;
+	padding-left: 0;
+	font-size: 0;
 }
 
 nav ul li {
@@ -20,7 +34,7 @@ nav ul li {
 	padding: 5px 0;
 	margin: 0;
 	background-color: #4D4D4D;
-	width: 170px;
+	width: 20%;
 }
 
 nav ul li:hover {
@@ -36,9 +50,70 @@ nav ul li a {
 
 .nav1 {
 	margin: 0;
+	font-size: medium;
 }
 
 .nav2 {
 	margin: 0;
 	font-size: small;
+}
+
+
+.wrapper {
+		height: 100%;
+		width: 100%;
+    min-width: 740px;
+    max-width: 1000px;
+		padding-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+		background-color: white;
+}
+
+main {
+	width: 100%;
+	height: 100%;
+}
+
+article {
+	height: 100vh;
+	margin: 50px 30px 0 30px;
+	display: block;
+}
+
+article p {
+	display: block;
+}
+
+.news {
+	width: 35%;
+	float: left;
+	display: block;
+}
+
+.news p {
+	color: #24508E;
+	margin: 5px 0;
+	font-weight: bold;
+}
+
+
+dl {
+	font-size: small;
+	margin-top: 25px;
+}
+
+dt {
+	float: left;
+}
+
+dd {
+	margin-left: 90px;
+}
+
+
+.welcome {
+	display: block;
+	float: right;
+	width: 65%;
 }
