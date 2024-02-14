@@ -1,5 +1,5 @@
 h1, h3 {
-	color: rgb(60, 78, 170);
+	color: #24508E;
 }
 
 h3 {
@@ -17,13 +17,24 @@ nav ul {
 nav ul li {
 	text-align: center;
 	display: inline-block;
-	padding: 0 20px;
+	padding: 5px 0;
 	margin: 0;
-	background-color: rgb(72, 72, 72);
+	background-color: #4D4D4D;
+	width: 170px;
 }
 
 nav ul li a {
 	text-decoration: none;
 	color: white;
 	font-weight: bold;
+	text-align: center;
+}
+
+.nav1 {
+	margin: 0;
+}
+
+.nav2 {
+	margin: 0;
+	font-size: small;
 }
