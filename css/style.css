@@ -76,7 +76,7 @@ main {
 }
 
 article {
-	height: 100vh;
+	height: 100%;
 	margin: 50px 30px 0 30px;
 	display: block;
 }
@@ -116,4 +116,18 @@ dd {
 	display: block;
 	float: right;
 	width: 65%;
+}
+
+.columns {
+	display: block;
+	height: 300px;
+}
+
+.demo {
+	height: 1000px;
+}
+
+.demo p {
+	color: #24508E;
+	font-weight: bold;
 }
