@@ -4,6 +4,23 @@ body {
 	height: 100%;
 }
 
+.head-affiliation {
+	color: #24508E;
+	font-weight: bold;
+	margin: 0;
+}
+
+.symbol-image {
+	width: 80px;
+	height: 80px;
+	margin: 0 30px;
+	float: left;
+}
+
+h1 {
+	font-size: 35px;
+}
+
 h1, h3 {
 	color: #24508E;
 	padding-left: 30px;
@@ -31,10 +48,14 @@ nav ul {
 nav ul li {
 	text-align: center;
 	display: inline-block;
-	padding: 5px 0;
+	padding: 10px 0;
 	margin: 0;
 	background-color: #4D4D4D;
 	width: 20%;
+}
+
+.thispage {
+	background-color: #24508E;
 }
 
 nav ul li:hover {
@@ -58,13 +79,17 @@ nav ul li a {
 	font-size: small;
 }
 
+.top-image {
+	width: 100%;
+}
+
 
 .wrapper {
 		height: 100%;
 		width: 100%;
     min-width: 740px;
     max-width: 1000px;
-		padding-top: 30px;
+		padding-top: 25px;
     margin-left: auto;
     margin-right: auto;
 		background-color: white;
@@ -77,12 +102,14 @@ main {
 
 article {
 	height: 100%;
-	margin: 50px 30px 0 30px;
+	margin: 30px 30px 50px 30px;
 	display: block;
 }
 
 article p {
 	display: block;
+	margin: 0;
+	margin-bottom: 30px;
 }
 
 .news {
@@ -105,10 +132,13 @@ dl {
 
 dt {
 	float: left;
+	width: 75px;
 }
 
 dd {
-	margin-left: 90px;
+	margin-left: 75px;
+	width: 220px;
+	padding-left: 15px;
 }
 
 
@@ -121,6 +151,18 @@ dd {
 .columns {
 	display: block;
 	height: 250px;
+}
+
+.columns dl ul {
+	padding-left: 0;
+}
+
+.columns dl ul li {
+	list-style: none;
+	border-bottom: dashed;
+	width: 90%;
+	border-width: 0.5px;
+	margin-bottom: 10px;
 }
 
 .demo {
