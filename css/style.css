@@ -54,6 +54,13 @@ nav ul li {
 	width: 20%;
 }
 
+.top-image {
+	width: 100%;
+	height: 220px;
+	object-fit: cover;
+	object-position: 50% 88%;
+}
+
 .thispage {
 	background-color: #24508E;
 }
@@ -81,13 +88,8 @@ nav ul li a {
 	font-size: small;
 }
 
-.top-image {
-	width: 100%;
-}
-
-
 .wrapper {
-		height: auto;
+		height: 100%;
 		width: 100%;
     min-width: 740px;
     max-width: 1000px;
@@ -194,10 +196,17 @@ dd {
 	float: right;
 	width:75%;
 	height: 100%;
+	font-family: "Arial";
 }
 
 .article-item {
 	margin: 0;
+}
+
+.profile-icon {
+	float: right;
+	margin-right: 40px;
+	margin-top: 12px;
 }
 
 .article-content dl{
@@ -211,6 +220,10 @@ dd {
 	margin-top: 15px;
 	margin-bottom: 50px;
 	list-style: none;
+}
+
+.article-content li {
+	margin-bottom: 5px;
 }
 
 .article-content dt {
@@ -228,7 +241,11 @@ dd {
 }
 
 .article-content p {
-	margin: 10px 0 0 0;
+	margin: 0;
+}
+
+.article-content ul {
+	font-size: 15px;
 }
 
 main p {
@@ -250,7 +267,19 @@ main p {
 
 dl.career{
 	font-size: medium;
-	font-family: "Times New Roman";
+}
+
+.grant-content {
+	margin-bottom: 50px;
+}
+
+.grant-content-item p {
+	margin: 0;
+	font-size: 15px;
+}
+
+.grant-content-item {
+	margin: 15px 0;
 }
 
 ul.published-papers {
@@ -258,10 +287,6 @@ ul.published-papers {
 	margin-left: 8px;
 	padding-left: 0;
 	overflow: hidden;
-}
-
-.published-papers div {
-	font-size: 90%;
 }
 
 .published-papers p {
