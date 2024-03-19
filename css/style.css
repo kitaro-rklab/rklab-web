@@ -27,6 +27,8 @@ h1 {
 	color: #24508E;
 	padding-left: 30px;
 	margin: 10px 0 20px 0;
+	font-family: "Hiragino Sans";
+
 }
 
 h2 {
@@ -203,6 +205,9 @@ dd {
 	width: 65%;
 }
 
+.welcome p {
+	margin-top: 10px;
+}
 
 /* aboutlab.html, achievement.html, profile_kase.htmlに共通のスタイル */
 
