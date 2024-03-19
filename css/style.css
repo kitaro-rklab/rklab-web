@@ -1,3 +1,5 @@
+/* 全体に共通のスタイル */
+
 body {
 	margin: 0;
 	background-color: #EFF5F8;
@@ -24,6 +26,7 @@ h1 {
 h1 {
 	color: #24508E;
 	padding-left: 30px;
+	margin: 10px 0 20px 0;
 }
 
 h2 {
@@ -35,11 +38,6 @@ h3	{
 	margin: 0;
 	margin-bottom:5px;
 	color: #24508E;
-}
-
-
-h1 {
-	margin: 10px 0 20px 0;
 }
 
 nav ul {
@@ -54,26 +52,6 @@ nav ul li {
 	margin: 0;
 	background-color: #4D4D4D;
 	width: 20%;
-}
-
-.top-image-container {
-	position: relative;
-}
-
-.top-image {
-	width: 100%;
-	height: 220px;
-	object-fit: cover;
-	object-position: 50% 88%;
-}
-
-.top-image-container p {
-	position: absolute;
-	top: 86%;
-	left: 39%;
-	color: darkgray;
-	font-size: 8px;
-	;
 }
 
 .thispage {
@@ -103,6 +81,26 @@ nav ul li a {
 	font-size: small;
 }
 
+.top-image-container {
+	position: relative;
+}
+
+.top-image-container p {
+	position: absolute;
+	top: 86%;
+	left: 39%;
+	color: darkgray;
+	font-size: 8px;
+	;
+}
+
+.top-image {
+	width: 100%;
+	height: 220px;
+	object-fit: cover;
+	object-position: 50% 88%;
+}
+
 .wrapper {
 		height: 100%;
 		width: 100%;
@@ -117,6 +115,14 @@ nav ul li a {
 main {
 	width: 100%;
 	height: 100%;
+}
+
+main p {
+	margin: 20px 0;
+}
+
+a {
+	color: #24508E;
 }
 
 article {
@@ -136,23 +142,6 @@ article p {
 	margin-bottom: 30px;
 }
 
-.news {
-	width: 35%;
-	float: left;
-	display: block;
-}
-
-.news p {
-	color: #24508E;
-	margin: 5px 0;
-	font-weight: bold;
-}
-
-.news span {
-	color: #24508E;
-	font-weight: bold;
-}
-
 dl {
 	font-size: small;
 	margin-top: 25px;
@@ -170,11 +159,7 @@ dd {
 }
 
 
-.welcome {
-	display: block;
-	float: right;
-	width: 65%;
-}
+/* index.htmlのスタイル */
 
 .columns {
 	display: block;
@@ -194,14 +179,32 @@ dd {
 	margin-bottom: 10px;
 }
 
-.demo {
-	height: 1000px;
+.news {
+	width: 35%;
+	float: left;
+	display: block;
 }
 
-.demo p {
+.news p {
+	color: #24508E;
+	margin: 5px 0;
+	font-weight: bold;
+}
+
+.news span {
 	color: #24508E;
 	font-weight: bold;
 }
+
+
+.welcome {
+	display: block;
+	float: right;
+	width: 65%;
+}
+
+
+/* aboutlab.html, achievement.html, profile_kase.htmlに共通のスタイル */
 
 .article-list {
 	float: left;
@@ -222,13 +225,6 @@ dd {
 .article-item {
 	margin: 0;
 }
-
-.profile-icon {
-	float: right;
-	margin-right: 40px;
-	margin-top: 12px;
-}
-
 .article-content dl{
 	font-size: medium;
 	margin-top: 15px;
@@ -262,9 +258,12 @@ dd {
 	margin: 0;
 }
 
-.achievement-content ul {
-	font-size: 15px;
-	margin-bottom: 50px;
+
+/* aboutlab.htmlのスタイル */
+
+.research-theme p {
+	margin-top: 0;
+	margin-bottom: 5px;
 }
 
 .research-content {
@@ -279,14 +278,8 @@ dd {
 	margin-bottom: 25px;
 }
 
-main p {
-	margin: 20px 0;
-}
 
-.research-theme p {
-	margin-top: 0;
-	margin-bottom: 5px;
-}
+/* achievement.htmlのスタイル */
 
 .achievement-list {
 	float: left;
@@ -294,6 +287,70 @@ main p {
 	height: 100%;
 	margin-top: 0;
 	padding-left: 20px;
+}
+
+.achievement-content ul {
+	font-size: 15px;
+	margin-bottom: 50px;
+}
+
+ul.published-papers {
+	margin-top: 15px;
+	margin-left: 8px;
+	padding-left: 0;
+	overflow: hidden;
+}
+
+.published-papers p {
+	margin-top: 0;
+	font-size: 90%;
+}
+
+li.published-papers-item {
+	padding: 10px;
+	border-bottom: 1px solid #ddd;
+}
+
+.authors {
+	color: #727272;
+}
+
+span.referee {
+	font-size: 9px;
+	padding: 2px 4px;
+	margin-left: 10px;
+	margin-bottom: 5px;
+	background-color: #24508E;
+	border-radius: 2px;
+	color: white;
+}
+
+
+/* members.htmlのスタイル */
+
+.members dd {
+	float: left;
+}
+
+
+/* access.htmlのスタイル */
+
+.address {
+	margin-bottom: 30px;
+}
+
+.map {
+	width: 400px;
+	margin: 0 auto;
+}
+
+
+/* profile_kase.htmlのスタイル */
+
+.profile-icon {
+	float: right;
+	margin-right: 40px;
+	margin-top: 12px;
 }
 
 dl.career{
@@ -317,50 +374,6 @@ dl.career{
 	margin: 15px 0;
 }
 
-ul.published-papers {
-	margin-top: 15px;
-	margin-left: 8px;
-	padding-left: 0;
-	overflow: hidden;
-}
 
-.published-papers p {
-	margin-top: 0;
-	font-size: 90%;
-}
 
-.authors {
-	color: #727272;
-}
 
-span.referee {
-	font-size: 9px;
-	padding: 2px 4px;
-	margin-left: 10px;
-	margin-bottom: 5px;
-	background-color: #24508E;
-	border-radius: 2px;
-	color: white;
-}
-
-li.published-papers-item {
-	padding: 10px;
-	border-bottom: 1px solid #ddd;
-}
-
-a {
-	color: #24508E;
-}
-
-.members dd {
-	float: left;
-}
-
-.address {
-	margin-bottom: 30px;
-}
-
-.map {
-	width: 400px;
-	margin: 0 auto;
-}
