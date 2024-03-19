@@ -4,8 +4,11 @@ body {
 	margin: 0;
 	background-color: #EFF5F8;
 	height: 100%;
-	font-family: "Hiragino Sans";
-
+  font-family: 
+    "Hiragino Kaku Gothic ProN",
+    "Hiragino Sans",
+    Meiryo,
+    sans-serif;
 }
 
 .head-affiliation {
