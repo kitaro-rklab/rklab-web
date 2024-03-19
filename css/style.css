@@ -56,11 +56,24 @@ nav ul li {
 	width: 20%;
 }
 
+.top-image-container {
+	position: relative;
+}
+
 .top-image {
 	width: 100%;
 	height: 220px;
 	object-fit: cover;
 	object-position: 50% 88%;
+}
+
+.top-image-container p {
+	position: absolute;
+	top: 86%;
+	left: 39%;
+	color: darkgray;
+	font-size: 8px;
+	;
 }
 
 .thispage {
@@ -166,6 +179,7 @@ dd {
 .columns {
 	display: block;
 	height: 250px;
+	margin-bottom: 100px;
 }
 
 .columns dl ul {
@@ -286,6 +300,10 @@ dl.career{
 	font-size: medium;
 }
 
+.gyoseki-content {
+	margin-bottom: 30px;
+}
+
 .grant-content {
 	margin-bottom: 50px;
 }
@@ -336,4 +354,13 @@ a {
 
 .members dd {
 	float: left;
+}
+
+.address {
+	margin-bottom: 30px;
+}
+
+.map {
+	width: 400px;
+	margin: 0 auto;
 }
