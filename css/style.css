@@ -31,7 +31,8 @@ h1 {
 h1 {
 	color: #24508E;
 	padding-left: 30px;
-	margin: 10px 0 20px 0;
+	padding: 10px 0 5px 0;
+	margin: 0 0 15px 0;
 }
 
 h2 {
@@ -43,6 +44,10 @@ h3	{
 	margin: 0;
 	margin-bottom:5px;
 	color: #24508E;
+}
+
+header a {
+	text-decoration: none;
 }
 
 nav ul {
@@ -154,12 +159,10 @@ dl {
 
 dt {
 	float: left;
-	width: 75px;
 }
 
 dd {
 	margin-left: 75px;
-	width: 220px;
 	padding-left: 15px;
 }
 
@@ -168,8 +171,7 @@ dd {
 
 .columns {
 	display: block;
-	height: 250px;
-	margin-bottom: 100px;
+	height: 500px;
 }
 
 .columns dl ul {
@@ -179,18 +181,18 @@ dd {
 .columns dl ul li {
 	list-style: none;
 	border-bottom: dashed;
-	width: 90%;
 	border-width: 0.5px;
 	margin-bottom: 10px;
+	padding-bottom: 3px;
 }
 
 .news {
-	width: 35%;
+	width: 32.5%;
 	float: left;
 	display: block;
 }
 
-.news p {
+.news-top {
 	color: #24508E;
 	margin: 5px 0;
 	font-weight: bold;
@@ -201,6 +203,9 @@ dd {
 	font-weight: bold;
 }
 
+.column-past-news dl ul li dd {
+	margin-left: 85px;
+}
 
 .welcome {
 	display: block;
@@ -210,6 +215,34 @@ dd {
 
 .welcome p {
 	margin-top: 10px;
+}
+
+.past-news {
+	float: right;
+	margin: 0;
+	font-weight: bold;
+}
+
+.column-past-news {
+	width: 80%;
+	float: left;
+	display: block;
+}
+
+.column-past-news span {
+	color: #24508E;
+	font-weight: bold;
+}
+
+.column-past-news dl {
+	font-size: 14px;
+}
+
+.column-past-news dl ul li {
+	list-style: none;
+	border-bottom: dashed;
+	border-width: 0.5px;
+	margin-bottom: 18px;
 }
 
 /* aboutlab.html, achievement.html, profile_kase.htmlに共通のスタイル */
@@ -325,12 +358,22 @@ li.published-papers-item {
 
 span.referee {
 	font-size: 9px;
-	padding: 2px 4px;
+	padding: 1px 4px;
 	margin-left: 10px;
-	margin-bottom: 5px;
 	background-color: #24508E;
 	border-radius: 2px;
 	color: white;
+	display: inline-block;
+}
+
+span.preprint {
+	font-size: 9px;
+	padding: 1px 4px;
+	margin-left: 10px;
+	background-color: #ac3232;
+	border-radius: 2px;
+	color: white;
+	display: inline-block;
 }
 
 
