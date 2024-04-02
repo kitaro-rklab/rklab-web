@@ -101,7 +101,7 @@ nav ul li a {
 
 .top-image-container p {
 	position: absolute;
-	top: 86%;
+	top: 89%;
 	left: 39%;
 	color: darkgray;
 	font-size: 8px;
@@ -213,8 +213,22 @@ dd {
 	width: 65%;
 }
 
+.welcome h2 {
+	margin-bottom: 17px;
+}
+
 .welcome p {
-	margin-top: 10px;
+	margin-bottom: 36px;
+}
+
+.welcome-detail ul {
+	margin: 0;
+	padding-left: 20px;
+}
+
+.welcome-detail p {
+	margin-left: 20px;
+	width: 90%;
 }
 
 .past-news {
