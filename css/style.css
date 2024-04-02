@@ -142,6 +142,7 @@ a {
 article {
 	height: 100%;
 	margin: 40px 40px 0 40px;
+	padding-bottom: 40px;
 	display: block;
 	overflow: hidden;
 }
@@ -175,7 +176,13 @@ dd {
 
 .columns {
 	display: block;
-	height: 800px;
+	height: 100%;
+}
+
+.clearfix::after{
+  content: "";
+  clear: both;
+  display: block;
 }
 
 .columns dl ul {
@@ -334,10 +341,30 @@ dd {
 	margin-bottom: 8px;
 }
 
+.article-content span {
+	color: #24508E;
+	font-weight: bold;
+}
+
 .sotsuken-list {
 	margin-bottom: 25px;
 }
 
+.research-content dt {
+	margin-left: 20px;
+	width: 22%;
+}
+
+.research-daigakuin dt {
+	float: none;
+	margin-bottom: 2px;
+}
+
+.research-daigakuin dd {
+	margin-left: 37px;
+	margin-bottom: 10px;
+	width: 90%;
+}
 
 /* achievement.htmlのスタイル */
 
