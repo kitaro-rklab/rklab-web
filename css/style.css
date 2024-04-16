@@ -471,6 +471,13 @@ dl.career{
 	margin: 15px 0;
 }
 
+figure.poster {
+float: left;
+padding-right: 10px;
+}
 
-
-
+figcaption {
+  width: fit-content; 
+  margin-right: auto;
+  margin-left: auto;
+}
