@@ -42,7 +42,7 @@
   - ホーム
     画像/紹介文
   - 研究
-  　画像を添えて専門用語の解説（English）
+    画像を添えて専門用語の解説（English）
 
 # 東京大学 宇宙理論研究室 UTAP
   https://www-utap.phys.s.u-tokyo.ac.jp/
@@ -183,3 +183,139 @@
     シミュレーションの動画と解説
   - Lab-Life
     Members/ゼミ/ALbam (学生目線での研究室生活のアルバム)
+
+# 東邦大学 理学部物理学科 宇宙物理学教室
+  https://www.lab.toho-u.ac.jp/sci/ph/astrophysics/
+  [ トップ/研究紹介/研究室メンバー/研究業績/卒業研究/修士論文/スケジュール/関連リンク ]
+
+# 新潟大学 宇宙物理学研究室
+  https://astro1.sc.niigata-u.ac.jp/
+  [ ホーム/メンバー/研究課題/研究室紹介/アルバム/予定表/アクセス/リンク ]
+
+# 名古屋大学 宇宙論研究室（C研）
+  https://www.astro-th.phys.nagoya-u.ac.jp/c-lab/index.html
+  [ ホーム/研究内容/メンバー/セミナー/予定/アクセス/リンク ]
+
+# 名古屋大学 理論宇宙物理学研究室（TA研）
+  https://www.astro-th.phys.nagoya-u.ac.jp/talab/index_j.html
+  [ 志望する方へ/メンバー/研究テーマ/TA研の論文/イベントと週のスケジュールa ]
+  - 研究テーマ
+    空間スケールの大→小の順番でテーマを並べ，それぞれをクリックすると研究内容の説明が表示される
+
+# 名古屋大学 銀河進化学研究室（Ω研）
+  https://sites.google.com/site/omegalabnagoya/home/
+  [ Home / News / Research / Members / Admission Policy / Semiknars/Lectures / Theses / Photos / Students' Life / Access / Link / Members Only ]
+  - Research
+    空間スケールの大→小の順番でテーマを並べ，それぞれをクリックすると研究内容の説明が表示される
+
+# 京都大学大学院 理学研究科 物理学・宇宙物理学専攻 物理第二分野 天体核研究室
+  https://www-tap.scphys.kyoto-u.ac.jp/
+  [ トップ/研究内容/メンバー・部屋割り/研究室内の役職/ゼミ紹介/課題研究P5/スケジュール/中間発表会 ]
+  - 天体核研究室のセミナー
+    コロキウム，宇宙論ゼミ，AP(天体物理学)ゼミ，ランチセミナー，若手ゼミ，GRBゼミ，GGセミナー
+
+# 京都大学 基礎物理学研究所 宇宙グループ
+  https://www.yukawa.kyoto-u.ac.jp/contents/labs/astro
+  - 宇宙分野 > 研究課題 > 各分野の説明
+
+# 京都大学 理学研究科 宇宙物理学教室
+  http://www.kusastro.kyoto-u.ac.jp/index-j.html
+  [ 研究紹介/教育紹介/合同研究発表会/セミナー/構成員紹介/アクセス/歴史紹介 ]
+  - 学部教育紹介
+    履修科目選択について学年ごとのガイドがある
+
+# 近畿大学 宇宙論研究室
+  https://www.cosmology.jp/
+  [ 研究/業績/教育/メンバー ]
+  - メンバー
+    修士の学生に関して，研究テーマのタイトルが書かれている
+
+# 大阪大学 宇宙進化グループ
+  https://astro-osaka.jp/OUTAP/index.html
+  [ ホーム/メンバー/研究内容/コロキウム/学生の皆さんへ/来訪者の方へ ]
+  - 研究内容
+    具体的な内容が画像付きで書かれている
+ 
+# 大阪公立大学 理学研究科 宇宙物理学研究室
+  https://www.sci.osaka-cu.ac.jp/phys/astrophys/
+  [ ホーム/研究内容/メンバー/論文等/セミナー/関連情報 ]
+  - 研究内容
+    [ なぜ重力か/３つの大きな研究テーマ/具体的な研究テーマ/博士論文/修士論文 ]
+  - セミナー
+    [ コロキウム/ランチセミナー/若手ゼミ ]
+    - ランチセミナー
+      journal clubに相当するもの．紹介者と紹介した論文がリンク付きで載せられている．
+
+# 大阪工業大学 情報科学部 情報システム学科 宇宙物理・数理科学研究室
+  https://www.oit.ac.jp/is/shinkai/
+  情報が1ページに網羅的に書かれているのは良いが，ごちゃついていて見づらい
+
+# 甲南大学 宇宙理論研究室
+  http://tpweb2.phys.konan-u.ac.jp/#1
+  [ People / Research / Theses / Join us / ... ]
+  - Research 
+    テーマごとのページで，適宜動画を見せつつキーワードを解説している
+
+# 関西学院大学 重力理論研究室
+  https://sci-tech.ksc.kwansei.ac.jp/~okamura/index.html
+  [ メンバー/配属希望の方へ/研究テーマ/研究成果/講義ノートや雑文/物理学科へ/理工学部へ ]
+  
+# 神戸大学 宇宙論研究室
+  https://www.research.kobe-u.ac.jp/fsci-pacos/index.html
+  [ Home / Research / Publications / Members / Sweminar / Access / Links ]
+  
+## 早田次郎教授のページ
+   https://www2.kobe-u.ac.jp/~jirosoda/
+   [ 研究内容/論文リスト/会議収録論文/書籍等/科研費取得状況 ]
+  
+# 広島大学 宇宙物理学研究室
+  https://astrophys.hiroshima-u.ac.jp/
+  [ Home / Staff / Members / Research / Information / Thesis / Access / Internal / English ]
+  [ 暗黒物質 / 銀河団 / 重力波宇宙論 / 重力の検証 / 高密度天体 ]
+
+# 九州大学 量子宇宙物理理論研究室（宇宙物理理論研究室）
+  https://cosmologykyushu.wixsite.com/index
+  [ ホーム/研究/論文/メンバー/コロキウム/アクセス/ENGLISH ]
+  - メンバー
+    顔写真付き．研究分野が一言で書かれている．
+    役割分担が書いてある
+    [ ホームページ，ネットワーク / コロキウム，ランチミーティング / レクリエーション / 総務 / PC管理 ]
+
+# 熊本大学大学院 自然科学研究科 理学専攻 物理科学講座 宇宙理論グループ
+  https://sci.kumamoto-u.ac.jp/physics/cosmology/
+  [ メンバー/研究内容/セミナー/リンク ]
+
+## 熊本大学宇宙理論研究室（学生のページ）
+   https://kumadaiuchu.wixsite.com/takahashi-lab
+   [ HOME / ABOUT / BLOG / MEMBERS / ACCESS&CONTACT ]
+   - HOME
+     研究テーマごとにリンク埋め込み画像がある
+   - BLOG
+     写真付きで国際会議やセミナーについてのブログ
+   - MEMBERS
+     研究グループごとに分かれている．顔写真付き．カーソルを合わせると学年/出身/趣味が表示される．
+
+# 琉球大学 宇宙物理研究室
+  http://eins.phys.u-ryukyu.ac.jp/index.php?%B1%A7%C3%E8%CA%AA%CD%FD%B3%D8%B8%A6%B5%E6%BC%BC
+  [ 専門・研究手法 / 研究テーマ / 研究内容 / 卒業研究のテーマ / 大学院での研究テーマ / 使用テキスト / 研究室紹介 / 学生への一言 ]
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
