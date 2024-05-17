@@ -1,9 +1,34 @@
 - English pageの追加
+  - https://astro3.sci.hokudai.ac.jp/huat/index.php/home_jp/
+  - ほぼ全て
+
 - 論文内容の紹介
+  - http://ksirius.kj.yamagata-u.ac.jp/report.html
+  - https://www.astro-th.phys.nagoya-u.ac.jp/talab/research/index_j.html
+  - https://astro-osaka.jp/OUTAP/aboutus.html
+  - https://sites.google.com/site/omegalabnagoya/research?authuser=0
+
 - 卒業生の進路
+  - https://astro3.sci.hokudai.ac.jp/huat/index.php/career_jp/
+  - https://www.obsap.phys.waseda.ac.jp/
+
 - journal clubで紹介した論文
+  - https://ea.c.u-tokyo.ac.jp/astro/astro_komabaseminar.html
+  - https://www.sci.osaka-cu.ac.jp/phys/astrophys/seminar.html
+  - https://www-tap.scphys.kyoto-u.ac.jp/seminar/grb-semi.html
+
 - スマホ対応
+
 - 役職（備品管理・PC管理etc.）
-- 卒研での使用テキスト
-- 卒研や修士での学びの流れ
+  - https://www-tap.scphys.kyoto-u.ac.jp/main.html
+
+- 卒研や修士での学びの流れ & 使用テキスト
+  - https://www2.rikkyo.ac.jp/grp/itp/jp/jp_forundergraduates.html#bar
+  - http://www.phys.aoyama.ac.jp/~w3-yama/assignment.html
+  - http://eins.phys.u-ryukyu.ac.jp/index.php?%B1%A7%C3%E8%CA%AA%CD%FD%B3%D8%B8%A6%B5%E6%BC%BC
+  - https://www.sci.osaka-cu.ac.jp/phys/astrophys/seminar.html
+
 - メンバー紹介を画像で
+  - https://cosmologykyushu.wixsite.com/index/about-us
+  - https://kumadaiuchu.wixsite.com/takahashi-lab/blank-5
+
