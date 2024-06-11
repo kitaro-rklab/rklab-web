@@ -1,3 +1,6 @@
+2023-06-11
+done - index_en.html, aboutlab_en.htmlを追加（index.htmlへの反映はまだ）
+
 2024-05-21
 done - 改善案の簡単なプレゼンと方針の決定
 
