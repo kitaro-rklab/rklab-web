@@ -286,7 +286,11 @@ dd {
 	float: right;
 	width:75%;
 	height: 100%;
-	font-family: Arial;
+	font-family: 
+		"Hiragino Kaku Gothic ProN",
+    "Hiragino Sans",
+    Meiryo,
+    sans-serif;
 }
 
 .article-item {
@@ -379,6 +383,7 @@ dd {
 .achievement-content ul {
 	font-size: 15px;
 	margin-bottom: 50px;
+	font-family: Arial;
 }
 
 ul.published-papers {
