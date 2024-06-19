@@ -1,4 +1,7 @@
-2023-06-11
+2024-06-19
+done - language-switcherを追加して日本語/Englishページ間の遷移を実装
+
+2024-06-11
 done - index_en.html, aboutlab_en.htmlを追加（index.htmlへの反映はまだ）
 
 2024-05-21
