@@ -49,6 +49,10 @@ h3	{
 	color: #24508E;
 }
 
+header {
+	height: 100%;
+}
+
 header a {
 	text-decoration: none;
 }
@@ -99,7 +103,7 @@ nav ul li a {
 	height: 220px;
 }
 
-.top-image-container p {
+.image-credit {
 	position: absolute;
 	top: 89%;
 	left: 39%;
@@ -113,6 +117,27 @@ nav ul li a {
 	height: 220px;
 	object-fit: cover;
 	object-position: 50% 88%;
+}
+
+.language-switcher {
+	list-style: none;
+	position: absolute;
+	bottom: 10%;
+	right: 0%;
+	padding: 0;
+	margin: 0;
+}
+
+.language-switcher li {
+	float: left;
+	margin-right: 10px;
+}
+
+.language-switcher li a {
+	color: white;
+	font-family: "Hiragino Kaku Gothic ProN";
+	font-weight: bold;
+	padding: 0 5px;
 }
 
 .wrapper {
