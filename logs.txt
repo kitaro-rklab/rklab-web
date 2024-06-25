@@ -1,3 +1,7 @@
+2024-06-25
+done - 英語ページに残っている日本語を英語に直す
+done - achivement, members, accessの英語ページの作成
+
 2024-06-19
 done - language-switcherを追加して日本語/Englishページ間の遷移を実装
 done - 06.04のnews（予定）を過去形に変更

@@ -188,7 +188,6 @@ dl {
 }
 
 dt {
-	float: left;
 }
 
 dd {
@@ -226,6 +225,10 @@ dd {
 	width: 32.5%;
 	float: left;
 	display: block;
+}
+
+.news dl ul li dt {
+	float: left;
 }
 
 .news-top {
@@ -336,10 +339,6 @@ dd {
 	margin-bottom: 5px;
 }
 
-.article-content dt {
-	width: 28%;
-}
-
 .article-content dd {
 	width: 72%;
 	margin: 0 0 10px 28%;
@@ -356,6 +355,18 @@ dd {
 
 
 /* aboutlab.htmlのスタイル */
+
+.affiliation dt {
+	margin-bottom: 10px;
+}
+
+.affiliation dd {
+	margin: 0 0 10px 20px;
+}
+
+.research-area dt {
+	float: left;
+}
 
 .research-theme p {
 	margin-top: 0;
@@ -381,7 +392,6 @@ dd {
 
 .research-content dt {
 	margin-left: 20px;
-	width: 22%;
 }
 
 .research-daigakuin dt {
@@ -452,11 +462,19 @@ span.preprint {
 	display: inline-block;
 }
 
+.grant-content p {
+	font-family: "Arial";
+}
+
 
 /* members.htmlのスタイル */
 
-.members dd {
+.members dt {
 	float: left;
+}
+
+.graduate-students dd {
+	margin-left: 38%;
 }
 
 
