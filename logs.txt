@@ -1,3 +1,8 @@
+2024-07-02
+done - language-switchereの位置を変更
+done - newsの文面を省略
+done - CSSを修正
+
 2024-06-25
 done - 英語ページに残っている日本語を英語に直す
 done - achivement, members, accessの英語ページの作成
