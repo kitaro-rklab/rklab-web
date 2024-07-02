@@ -51,6 +51,7 @@ h3	{
 
 header {
 	height: 100%;
+	position: relative;
 }
 
 header a {
@@ -122,8 +123,8 @@ nav ul li a {
 .language-switcher {
 	list-style: none;
 	position: absolute;
-	bottom: 10%;
-	right: 0%;
+	right: 10px;
+	top: 0%;
 	padding: 0;
 	margin: 0;
 }
@@ -134,7 +135,7 @@ nav ul li a {
 }
 
 .language-switcher li a {
-	color: white;
+	color: #4D4D4D;
 	font-family: "Hiragino Kaku Gothic ProN";
 	font-weight: bold;
 	padding: 0 5px;
@@ -276,7 +277,11 @@ dd {
 	width: 80%;
 	float: left;
 	display: block;
-	height: 1800px;
+	height: 2000px;
+}
+
+.column-past-news dt {
+	float: left;
 }
 
 .column-past-news span {
@@ -492,14 +497,18 @@ span.preprint {
 
 /* profile_kase.htmlのスタイル */
 
+.profile-kase-container {
+	font-family: Arial;
+}
+
+.profile-kase-container dt {
+	float: left;
+}
+
 .profile-icon {
 	float: right;
 	margin-right: 40px;
 	margin-top: 12px;
-}
-
-dl.career{
-	font-size: medium;
 }
 
 .gyoseki-content {
