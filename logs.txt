@@ -1,3 +1,6 @@
+2024-08-06
+done - PRD 110, 044006 (2024)をachievementに追加
+
 2024-07-02
 done - language-switchereの位置を変更
 done - newsの文面を省略
@@ -5,7 +8,7 @@ done - CSSを修正
 
 2024-06-25
 done - 英語ページに残っている日本語を英語に直す
-done - achivement, members, accessの英語ページの作成
+done - achievement, members, accessの英語ページの作成
 
 2024-06-19
 done - language-switcherを追加して日本語/Englishページ間の遷移を実装
