@@ -1,6 +1,7 @@
 2024-09-12
 done - オープンカレッジの情報をnewsに追加
-done - past_newsとachievementが過去のバージョンに戻っていたのを修正
+done - indexのnewsが長くなりすぎたので4月1日以前の情報はindexから削除
+done - past_newsについてはindexに記載したものよりも古い情報だけを記載
 
 2024-09-10
 done - Tsukamoto&Kase論文(GMGHS)のarXiv情報を追加
