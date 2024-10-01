@@ -32,3 +32,5 @@
   - https://cosmologykyushu.wixsite.com/index/about-us
   - https://kumadaiuchu.wixsite.com/takahashi-lab/blank-5
 
+- creditのメモ
+<p class="image-credit">&copy; 2012, NASA, ESA, G. Illingworth, D. Magee, and P. Oesch (University of California, Santa Cruz), R. Bouwens (Leiden University), and the HUDF09 Team</p>
