@@ -1,4 +1,6 @@
 2024-10-01
+done - add vector Galileon to achievement
+done - add Science Forum
 done - Enlgish -> English
 
 2024-09-10
