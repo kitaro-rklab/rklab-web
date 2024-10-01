@@ -196,18 +196,17 @@ dd {
 	padding-left: 15px;
 }
 
+.clearfix::after{
+  content: "";
+  clear: both;
+  display: block;
+}
 
 /* index.htmlのスタイル */
 
 .columns {
 	display: block;
 	height: 100%;
-}
-
-.clearfix::after{
-  content: "";
-  clear: both;
-  display: block;
 }
 
 .columns dl ul {
@@ -408,6 +407,14 @@ dd {
 	margin-left: 37px;
 	margin-bottom: 10px;
 	width: 90%;
+}
+
+figure {
+	display: block;
+}
+
+.figures {
+	height: 100%;
 }
 
 /* achievement.htmlのスタイル */
