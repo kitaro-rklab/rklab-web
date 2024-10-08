@@ -1,57 +1,60 @@
+2024-10-08
+- modify obeject-position of top-image
+
 2024-10-01
-done - add vector Galileon to achievement
-done - add Science Forum
-done - modify credit
-done - Enlgish -> English
-done - modify credit
+- add vector Galileon to achievement
+- add Science Forum
+- modify credit
+- Enlgish -> English
+- modify credit
 
 2024-09-10
-done - Tsukamoto&Kase論文(GMGHS)のarXiv情報を追加
+- Tsukamoto&Kase論文(GMGHS)のarXiv情報を追加
 
 2024-09-09
-done - Tsukamoto&Kase論文とChao&Kase論文のpublish情報を追加
+- Tsukamoto&Kase論文とChao&Kase論文のpublish情報を追加
 
 2024-08-06
-done - PRD 110, 044006 (2024)をachievementに追加
+- PRD 110, 044006 (2024)をachievementに追加
 
 2024-07-02
-done - language-switchereの位置を変更
-done - newsの文面を省略
-done - CSSを修正
+- language-switchereの位置を変更
+- newsの文面を省略
+- CSSを修正
 
 2024-06-25
-done - 英語ページに残っている日本語を英語に直す
-done - achievement, members, accessの英語ページの作成
+- 英語ページに残っている日本語を英語に直す
+- achievement, members, accessの英語ページの作成
 
 2024-06-19
-done - language-switcherを追加して日本語/Englishページ間の遷移を実装
-done - 06.04のnews（予定）を過去形に変更
+- language-switcherを追加して日本語/Englishページ間の遷移を実装
+- 06.04のnews（予定）を過去形に変更
 
 2024-06-11
-done - index_en.html, aboutlab_en.htmlを追加（index.htmlへの反映はまだ）
+- index_en.html, aboutlab_en.htmlを追加（index.htmlへの反映はまだ）
 
 2024-05-21
-done - 改善案の簡単なプレゼンと方針の決定
+- 改善案の簡単なプレゼンと方針の決定
 
 - 他大学の宇宙物理学分野の研究室のwebpageをsearch
 - うちの研究室のwebpageの改善案の検討
 
 2024-04-10
-done - 本日公開された塚本&加瀬の論文情報を「News」と「研究成果」に追加
-done - 「研究成果」にarXiv numberを追加
-done - 論文に関して古いものから昇順で番号を振る
-done - 研究室紹介ポスターの添付
+- 本日公開された塚本&加瀬の論文情報を「News」と「研究成果」に追加
+- 「研究成果」にarXiv numberを追加
+- 論文に関して古いものから昇順で番号を振る
+- 研究室紹介ポスターの添付
 
 2024-04-02
-done - Newsのサイエンス講座のお知らせを二重線で区切る
-done - indexにおける二つのテーマの説明部分のインデント
-done - 「大学院での研究」欄の作成
-done - spanタグを用いた文章中のキーワードの強調
+- Newsのサイエンス講座のお知らせを二重線で区切る
+- indexにおける二つのテーマの説明部分のインデント
+- 「大学院での研究」欄の作成
+- spanタグを用いた文章中のキーワードの強調
 
 2024-03-27
-done - 過去のお知らせを別ページで表示する改造
-done - publishのお知らせを追記
+- 過去のお知らせを別ページで表示する改造
+- publishのお知らせを追記
 
 2024-03-19
-done - 卒研の文章更新
-done - 卒研生の受賞記録
+- 卒研の文章更新
+- 卒研生の受賞記録
