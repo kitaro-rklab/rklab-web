@@ -18,6 +18,7 @@ body {
 	color: #24508E;
 	font-weight: bold;
 	margin: 0;
+	font-size: 16px;
 }
 
 .symbol-image {
@@ -29,9 +30,6 @@ body {
 
 h1 {
 	font-size: 35px;
-}
-
-h1 {
 	color: #24508E;
 	padding-left: 30px;
 	padding: 10px 0 5px 0;
@@ -186,9 +184,6 @@ article p {
 dl {
 	font-size: small;
 	margin-top: 25px;
-}
-
-dt {
 }
 
 dd {
