@@ -1,4 +1,5 @@
 2024-10-08
+- add text-size-adjust
 - modify obeject-position of top-image
 
 2024-10-01
