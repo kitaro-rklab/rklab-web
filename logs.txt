@@ -3,6 +3,7 @@ done - add vector Galileon to achievement
 done - add Science Forum
 done - modify credit
 done - Enlgish -> English
+done - modify credit
 
 2024-09-10
 done - Tsukamoto&Kase論文(GMGHS)のarXiv情報を追加
