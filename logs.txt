@@ -1,9 +1,12 @@
+2024-11-12
+- 11.07のNewsを更新
+
 2024-10-29
 - JCAP10(2024)072のpublish情報を追加
 
 2024-10-08
 - add text-size-adjust
-- modify obeject-position of top-image
+- modify object-position of top-image
 
 2024-10-01
 - add vector Galileon to achievement
